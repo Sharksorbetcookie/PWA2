@@ -2,7 +2,7 @@
     "theme_color": "#f6a435",
     "background_color": "#854503",
     "display": "fullscreen",
-    "scope": "",
+    "scope": "/",
     "start_url": "/PWA2/",
     "name": "Baldur's Gate 3",
     "short_name": "BG3",
