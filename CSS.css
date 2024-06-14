@@ -1,0 +1,38 @@
+/* BODY style */
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('BGcover.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* HEADER style */
+header{
+    background-image: url('LOGO.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    padding: 200px;
+    text-align: under ;
+    
+}
+
+
+/* MAIN style*/
+main{
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: antiquewhite;
+}
+
+/* FOOTER STYLE*/
+footer{
+    background-color: auto;
+    text-align:center;
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    margin-top: 40px;
+}
